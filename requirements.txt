@@ -1,0 +1,11 @@
+transformers
+pandas
+numpy
+torch
+evaluate
+accelerate
+SentencePiece
+protobuf
+bitsandbytes
+seaborn
+matplotlib
